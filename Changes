@@ -1,0 +1,6 @@
+Revision history for Perl extension Gives.
+
+0.01  Thu May  4 15:03:41 2006
+	- original version; created by h2xs 1.23 with options
+		-v 0.01 -n Gives -b 5.6.0 -X
+
